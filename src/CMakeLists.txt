@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.8)
+project (cmake-learning)
+add_subdirectory (hello)
+add_subdirectory (multi)
+add_subdirectory (fruits)
